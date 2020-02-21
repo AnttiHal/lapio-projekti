@@ -20,3 +20,4 @@ kana
 kala
 turskan perkeitä
 kurpitsa
+nakkeja
