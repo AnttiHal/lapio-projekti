@@ -19,3 +19,4 @@ liha
 kana
 kala
 turskan perkeitä
+kurpitsa
